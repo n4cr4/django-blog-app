@@ -1,0 +1,8 @@
+# dirs
+__pychache__
+venv
+media
+
+# files
+db.sqlite3
+.env
